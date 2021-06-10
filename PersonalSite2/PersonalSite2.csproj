@@ -144,12 +144,16 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\about.jpg" />
     <Content Include="assets\img\apple-touch-icon.png" />
-    <Content Include="assets\img\favicon.png" />
+    <Content Include="assets\img\favicon.ico" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\Jake %281%29.jpg" />
     <Content Include="assets\img\Jake.jpg" />
+    <Content Include="assets\img\Jake1 %281%29.jpg" />
     <Content Include="assets\img\Jake1.jpg" />
+    <Content Include="assets\img\Jake2 %281%29.jpg" />
     <Content Include="assets\img\Jake2.jpg" />
     <Content Include="assets\img\Jake3.jpg" />
+    <Content Include="assets\img\pexels-steve-johnson-2130474.jpg" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
@@ -282,6 +286,7 @@
     <Content Include="assets\vendor\boxicons\fonts\boxicons.ttf" />
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff2" />
+    <Content Include="assets\img\Jake.psd" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
