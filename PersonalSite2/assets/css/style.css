@@ -23,8 +23,37 @@ a {
         text-decoration: none;
     }
 
-h1, h2, h3, h4, h5, h6 {
+#heroName {
+    font-family: "Kaushan Script";
+}
+
+h1 {
+    font-family: "Kaushan Script";
+}
+
+h2 {
     font-family: "Raleway", sans-serif;
+    text-shadow: 1px 1px 1px #34b7a7;
+}
+
+h3 {
+    font-family: "Rock Salt", sans-serif;
+}
+
+h4 {
+    font-family: "Raleway", sans-serif;
+}
+
+h5 {
+
+}
+
+p {
+    text-shadow: 1px 1px 1px #34b7a7;
+}
+
+li {
+    text-shadow: 1px 1px 1px #000000;
 }
 
 #main {
@@ -199,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        font-family: "Raleway", sans-serif;
+        font-family: "Rock Salt", sans-serif;
         font-size: 15px;
         font-weight: 600;
         color: #888888;
@@ -584,33 +613,6 @@ section {
     }
 }
 
-/*--------------------------------------------------------------
-# About
---------------------------------------------------------------*/
-.about .content h3 {
-    font-weight: 700;
-    font-size: 26px;
-    color: #555555;
-}
-
-.about .content ul {
-    list-style: none;
-    padding: 0;
-}
-
-    .about .content ul li {
-        padding-bottom: 10px;
-    }
-
-    .about .content ul i {
-        font-size: 20px;
-        padding-right: 2px;
-        color: #34b7a7;
-    }
-
-.about .content p:last-child {
-    margin-bottom: 0;
-}
 
 /*--------------------------------------------------------------
 # Skills
