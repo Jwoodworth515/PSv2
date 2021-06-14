@@ -142,6 +142,7 @@
     <Content Include="Archive\resume.html" />
     <Content Include="Archive\services.html" />
     <Content Include="assets\css\style.css" />
+    <Content Include="assets\img\favicon.ico" />
     <Content Include="assets\img\Jake %281%29.jpg" />
     <Content Include="assets\img\Jake.jpg" />
     <Content Include="assets\img\Jake1 %281%29.jpg" />
