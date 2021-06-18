@@ -444,7 +444,6 @@ li {
     background-size: cover;
 }
 
-
     #hero .container {
         padding-top: 70px;
         position: relative;
@@ -488,9 +487,15 @@ li {
     background: #34b7a7;
 }
 
-    #hero .btn-about:hover {
-        background: #3dc8b7;
-    }
+#hero .btn-about:hover {
+    background: #3dc8b7;
+
+}
+
+.abstractImage {
+    background-image: url('../img/Jake2 (1).jpg');
+}
+
 
 @media (min-width: 1024px) {
     #hero {

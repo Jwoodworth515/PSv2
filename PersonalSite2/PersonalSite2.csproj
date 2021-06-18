@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
     <Content Include="Archive\about.html" />
     <Content Include="Archive\assets\css\style.css" />
     <Content Include="Archive\assets\img\about.jpg" />
