@@ -144,6 +144,16 @@
     <Content Include="Archive\services.html" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
+    <Content Include="assets\img\devIcons\001-asp-file-format-symbol.png" />
+    <Content Include="assets\img\devIcons\002-jquery-sketch-symbol.png" />
+    <Content Include="assets\img\devIcons\003-json-file.png" />
+    <Content Include="assets\img\devIcons\004-js-format.png" />
+    <Content Include="assets\img\devIcons\005-css-3.png" />
+    <Content Include="assets\img\devIcons\006-html-5.png" />
+    <Content Include="assets\img\devIcons\007-hashtag.png" />
+    <Content Include="assets\img\devIcons\008-physics.png" />
+    <Content Include="assets\img\devIcons\009-sql-file-symbol.png" />
+    <Content Include="assets\img\devIcons\010-iteration.png" />
     <Content Include="assets\img\Dungeon Application Project.JPG" />
     <Content Include="assets\img\Dungeon Application Project2.JPG" />
     <Content Include="assets\img\Dungeon Application Project3.JPG" />
@@ -166,6 +176,12 @@
     <Content Include="assets\img\Jake2 %281%29.jpg" />
     <Content Include="assets\img\Jake2.jpg" />
     <Content Include="assets\img\Jake3.jpg" />
+    <Content Include="assets\img\Jakeabout.jpg" />
+    <Content Include="assets\img\testimonials\DHaim.jfif" />
+    <Content Include="assets\img\testimonials\JShatzkamer.jfif" />
+    <Content Include="assets\img\testimonials\JTaylor.jfif" />
+    <Content Include="assets\img\testimonials\KKrummenacher.jfif" />
+    <Content Include="assets\img\testimonials\MGriffin.jfif" />
     <Content Include="assets\img\pexels-steve-johnson-2130474.jpg" />
     <Content Include="assets\img\portfolio\ComingSoon.png" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
@@ -180,8 +196,6 @@
     <Content Include="assets\img\portfolio\portfolio-details-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-details-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-details-3.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-1.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-2.jpg" />
     <Content Include="assets\img\testimonials\testimonials-3.jpg" />
     <Content Include="assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="assets\img\testimonials\testimonials-5.jpg" />
@@ -301,6 +315,7 @@
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="assets\img\Jake.psd" />
+    <Content Include="assets\img\Jacob Woodworth Resume IT.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

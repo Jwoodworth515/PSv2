@@ -42,6 +42,7 @@ h3 {
 
 h4 {
     font-family: "Raleway", sans-serif;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 h5 {
@@ -618,6 +619,33 @@ section {
     }
 }
 
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about .content h3 {
+    font-weight: 700;
+    font-size: 26px;
+    color: #555555;
+}
+
+.about .content ul {
+    list-style: none;
+    padding: 0;
+}
+
+    .about .content ul li {
+        padding-bottom: 10px;
+    }
+
+    .about .content ul i {
+        font-size: 20px;
+        padding-right: 2px;
+        color: #34b7a7;
+    }
+
+.about .content p:last-child {
+    margin-bottom: 0;
+}
 
 /*--------------------------------------------------------------
 # Skills
