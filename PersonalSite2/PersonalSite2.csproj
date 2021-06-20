@@ -160,6 +160,40 @@
     <Content Include="assets\img\music\30948_389944821465_2988021_n.jpg" />
     <Content Include="assets\img\music\36409_404069186465_5768647_n.jpg" />
     <Content Include="assets\img\music\74372_447784931465_6933728_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350281465_6949590_n - Copy.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350296465_630320_n - Copy.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350376465_4924184_n - Copy.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350416465_2085222_n - Copy.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350421465_8357681_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350431465_6099195_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350466465_3267736_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350476465_1800746_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350486465_252205_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350501465_2600850_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350526465_4525170_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350556465_4123676_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399350606465_5611472_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399351066465_5033926_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399351076465_7741595_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399351081465_2067889_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399351101465_1667629_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\32052_399351106465_6611035_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\73109_447785436465_4582003_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\73679_447785121465_3695956_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\73865_447785346465_2084931_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\74372_447784931465_6933728_n.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\DefiancePointe.jpg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\Pointfest_24__1600W-2-1280x720.jpeg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\Pointfest_26__1600W-2.jpeg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\Pointfest_29__1600W-3.jpeg" />
+    <Content Include="assets\img\music\defiancePointeArtwork\UntilTheDawn.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\165380_491707611465_7363536_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\180385_491707571465_4115377_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\188662_10150104587106466_6019175_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\409380_10150501471091466_1024017077_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\421238_10150501470796466_1290302012_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\423723_10150501471246466_178885039_n.jpg" />
+    <Content Include="assets\img\music\fromSkiesOfFireArtwork\423950_10150501470706466_2121140565_n.jpg" />
     <Content Include="assets\img\music\GiveThemMyName copy.jpg" />
     <Content Include="assets\img\music\GiveThemMyName.jpg" />
     <Content Include="assets\img\music\UntilTheDawn.jpg" />
@@ -343,6 +377,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\img\music\victoryForVillainsJakePhotos\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
